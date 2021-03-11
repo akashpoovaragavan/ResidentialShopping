@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "924133896607",
+    "project_id": "residentialshopping",
+    "storage_bucket": "residentialshopping.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:924133896607:android:214d4ced5632f1d7cf4daa",
+        "android_client_info": {
+          "package_name": "com.example.residentialshopping"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "924133896607-0q3sch841vq04m569ss0vplml1gjo7ov.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCNg8c62K-g9pQat44mHHNlo8vY0XVKEIQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "924133896607-0q3sch841vq04m569ss0vplml1gjo7ov.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
